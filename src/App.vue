@@ -1,7 +1,7 @@
 <template>
   <div class="container mx-auto">
     <img class="block w-2/12 mx-auto" alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="Hello Vue 3 + Vite" />
+    <HelloWorld msg="Vue 3 + Vite + TaliwindCSS" />
   </div>
 </template>
 
